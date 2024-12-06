@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend for the todo list application",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUNITH-WEBMAN/Todolist.git"
+  },
+  "author": "PUNITHRAJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUNITH-WEBMAN/Todolist/issues"
+  },
+  "homepage": "https://github.com/PUNITH-WEBMAN/Todolist#readme"
+}
